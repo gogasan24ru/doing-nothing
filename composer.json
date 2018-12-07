@@ -1,0 +1,14 @@
+{
+  "name": "Doing Nothing",
+  "version": "1.02",
+  "homepage":"http://example.com/doing-nothing",
+  "author": {
+    "name": "blah",
+    "role": "Developer",
+    "email": "blah@example.com",
+    "homepage": "http://example.com/author"
+  },
+  "require": {
+    "yahnis-elsts/plugin-update-checker": "dev-master"
+  }
+}
